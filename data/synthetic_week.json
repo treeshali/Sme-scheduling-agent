@@ -1,0 +1,34 @@
+{
+  "week_start": "2026-09-07T00:00:00+05:30",
+  "sessions": [
+    {"id":"S-101","date":"2026-09-07","start":"2026-09-07T10:00:00+05:30","end":"2026-09-07T11:30:00+05:30","topic":"Product Strategy","mode":"live","required_training_level":2},
+    {"id":"S-102","date":"2026-09-07","start":"2026-09-07T12:00:00+05:30","end":"2026-09-07T13:00:00+05:30","topic":"SQL","mode":"live","required_training_level":2},
+    {"id":"S-103","date":"2026-09-08","start":"2026-09-08T11:00:00+05:30","end":"2026-09-08T12:30:00+05:30","topic":"Mock Interview","mode":"virtual","required_training_level":1},
+    {"id":"S-104","date":"2026-09-08","start":"2026-09-08T15:00:00+05:30","end":"2026-09-08T16:00:00+05:30","topic":"Product Analytics","mode":"virtual","required_training_level":2},
+    {"id":"S-105","date":"2026-09-09","start":"2026-09-09T10:00:00+05:30","end":"2026-09-09T11:00:00+05:30","topic":"System Design","mode":"live","required_training_level":3},
+    {"id":"S-106","date":"2026-09-09","start":"2026-09-09T14:00:00+05:30","end":"2026-09-09T15:00:00+05:30","topic":"Python","mode":"virtual","required_training_level":2},
+    {"id":"S-107","date":"2026-09-10","start":"2026-09-10T11:00:00+05:30","end":"2026-09-10T12:00:00+05:30","topic":"Behavioral Interview","mode":"virtual","required_training_level":1},
+    {"id":"S-108","date":"2026-09-10","start":"2026-09-10T16:00:00+05:30","end":"2026-09-10T17:30:00+05:30","topic":"Product Strategy","mode":"live","required_training_level":2},
+    {"id":"S-109","date":"2026-09-11","start":"2026-09-11T10:00:00+05:30","end":"2026-09-11T11:00:00+05:30","topic":"Data Storytelling","mode":"virtual","required_training_level":2},
+    {"id":"S-110","date":"2026-09-11","start":"2026-09-11T15:00:00+05:30","end":"2026-09-11T16:00:00+05:30","topic":"Advanced Robotics","mode":"live","required_training_level":3}
+  ],
+  "smes": [
+    {"id":"E-01","name":"Aisha Khan","skills":"Product Strategy, Product Management, Product Analytics","training_level":3,"overall_performance":0.94,"topic_performance":{"Product Strategy":0.96,"Product Analytics":0.92},"preferred_modes":["live","virtual"],"availability":[{"date":"2026-09-07","start":"2026-09-07T09:00:00+05:30","end":"2026-09-07T14:00:00+05:30"},{"date":"2026-09-08","start":"2026-09-08T14:00:00+05:30","end":"2026-09-08T18:00:00+05:30"},{"date":"2026-09-10","start":"2026-09-10T15:00:00+05:30","end":"2026-09-10T18:00:00+05:30"}]},
+    {"id":"E-02","name":"Rohan Mehta","skills":"SQL, Data Analytics, Product Analytics","training_level":3,"overall_performance":0.88,"topic_performance":{"SQL":0.95,"Product Analytics":0.89},"preferred_modes":["virtual"],"availability":[{"date":"2026-09-07","start":"2026-09-07T11:00:00+05:30","end":"2026-09-07T15:00:00+05:30"},{"date":"2026-09-09","start":"2026-09-09T13:00:00+05:30","end":"2026-09-09T17:00:00+05:30"}]},
+    {"id":"E-03","name":"Neha Iyer","skills":"Interview Prep, Career Coaching, Behavioral Interview","training_level":2,"overall_performance":0.91,"topic_performance":{"Mock Interview":0.93,"Behavioral Interview":0.95},"preferred_modes":["virtual"],"availability":[{"date":"2026-09-08","start":"2026-09-08T10:00:00+05:30","end":"2026-09-08T14:00:00+05:30"},{"date":"2026-09-10","start":"2026-09-10T10:00:00+05:30","end":"2026-09-10T13:00:00+05:30"}]},
+    {"id":"E-04","name":"Vikram Rao","skills":"Backend, Software Architecture, System Design, Python","training_level":3,"overall_performance":0.89,"topic_performance":{"System Design":0.97,"Python":0.88},"preferred_modes":["live","virtual"],"availability":[{"date":"2026-09-09","start":"2026-09-09T09:00:00+05:30","end":"2026-09-09T16:00:00+05:30"}]},
+    {"id":"E-05","name":"Meera Joshi","skills":"Python, Data Analytics, SQL","training_level":2,"overall_performance":0.84,"topic_performance":{"Python":0.90,"SQL":0.86},"preferred_modes":["virtual"],"availability":[{"date":"2026-09-09","start":"2026-09-09T13:30:00+05:30","end":"2026-09-09T16:30:00+05:30"},{"date":"2026-09-11","start":"2026-09-11T09:00:00+05:30","end":"2026-09-11T13:00:00+05:30"}]},
+    {"id":"E-06","name":"Arjun Singh","skills":"Product Management, Product Strategy","training_level":2,"overall_performance":0.79,"topic_performance":{"Product Strategy":0.82},"preferred_modes":["live"],"availability":[{"date":"2026-09-07","start":"2026-09-07T09:30:00+05:30","end":"2026-09-07T12:30:00+05:30"},{"date":"2026-09-10","start":"2026-09-10T15:30:00+05:30","end":"2026-09-10T18:00:00+05:30"}]},
+    {"id":"E-07","name":"Kabir Verma","skills":"Data Storytelling, Data Analytics, Product Analytics","training_level":3,"overall_performance":0.87,"topic_performance":{"Data Storytelling":0.93,"Product Analytics":0.85},"preferred_modes":["virtual"],"availability":[{"date":"2026-09-11","start":"2026-09-11T09:00:00+05:30","end":"2026-09-11T13:00:00+05:30"}]},
+    {"id":"E-08","name":"Sana Ali","skills":"Product Strategy, Product Management","training_level":3,"overall_performance":0.92,"topic_performance":{"Product Strategy":0.91},"preferred_modes":["live"],"status":"dropped_out","availability":[]}
+  ],
+  "assignment_history": [
+    {"date":"2026-08-11","sme_id":"E-01"},{"date":"2026-08-12","sme_id":"E-01"},{"date":"2026-08-14","sme_id":"E-01"},
+    {"date":"2026-08-18","sme_id":"E-02"},{"date":"2026-08-19","sme_id":"E-02"},
+    {"date":"2026-08-20","sme_id":"E-03"},{"date":"2026-08-22","sme_id":"E-03"},
+    {"date":"2026-08-25","sme_id":"E-04"},{"date":"2026-08-27","sme_id":"E-04"},{"date":"2026-08-28","sme_id":"E-04"},
+    {"date":"2026-08-26","sme_id":"E-05"},
+    {"date":"2026-08-24","sme_id":"E-06"},{"date":"2026-08-29","sme_id":"E-06"},
+    {"date":"2026-08-30","sme_id":"E-07"}
+  ]
+}
