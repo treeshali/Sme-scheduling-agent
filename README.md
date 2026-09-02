@@ -55,7 +55,6 @@ OPENAI_API_KEY=your_key
 OPENAI_MODEL=gpt-5.6-luna
 ```
 
-Do not commit `.env` files or API keys.
 
 ## Local run
 
