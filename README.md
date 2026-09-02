@@ -79,7 +79,6 @@ vercel
 vercel --prod
 ```
 
-For the hosted demo, add `OPENAI_API_KEY` and optionally `OPENAI_MODEL` in Vercel Project Settings → Environment Variables. The application still works without the key using deterministic fallback mode.
 
 ## API surface
 
